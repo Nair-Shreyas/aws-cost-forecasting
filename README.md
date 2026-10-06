@@ -16,7 +16,7 @@ A data analysis project exploring AWS usage and cost patterns, combining explora
 - Exploratory analysis to surface spending trends and anomalies
 - A 15-day cost forecast based on historical trends
 
-`aws_usage.csv` is bundled so the notebook runs standalone — no external downloads needed.
+`aws_usage.csv` is bundled so the notebook runs standalone, with no external downloads needed.
 
 ## Results
 
