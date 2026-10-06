@@ -2,6 +2,12 @@
 
 ![Project Overview](docs/images/1_project_overview.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python: 3.12"/>
+  <img src="https://img.shields.io/badge/Runs_on-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Runs on: Google Colab"/>
+  <img src="https://img.shields.io/badge/Data-AWS_usage_%26_cost-c9440c?style=flat-square" alt="Data: AWS usage & cost"/>
+</p>
+
 A data analysis project exploring AWS usage and cost patterns, combining exploratory analysis, visualization, and simple predictive modeling to understand what drives cloud spend over time.
 
 ## What it does
